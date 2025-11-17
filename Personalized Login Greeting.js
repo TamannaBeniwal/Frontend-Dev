@@ -1,5 +1,3 @@
-// Q1 – Personalized Login Greeting
-
 let userName = "Tamanna";
 let hour = new Date().getHours();
 

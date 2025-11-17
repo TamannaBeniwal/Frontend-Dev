@@ -1,4 +1,4 @@
-// Q8 – Dynamic Discount Evaluator
+
 
 const cart = [
     { item: "Laptop", category: "electronics", price: 45000 },
